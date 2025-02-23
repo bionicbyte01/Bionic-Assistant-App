@@ -1,2 +1,7 @@
-# Bionic-Assistant
-Meet BionicByte Assistant. Your personal favorite to assist, comfort and work in your overloads. Happy collaboration!
+# BIONIC  Assistant 
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

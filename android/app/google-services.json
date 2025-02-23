@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "51153412552",
+    "project_id": "sample-chat-app-8kwd7l",
+    "storage_bucket": "sample-chat-app-8kwd7l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51153412552:android:5d90c575ba65e22e8960fd",
+        "android_client_info": {
+          "package_name": "com.BionicByteLLC.BionicAiAssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51153412552-aojl4pkaeh5annt66vq9aq6mvvqr2k5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BionicByteLLC.BionicAiAssistant",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dm9sYnk1NWkHTrSw_uKRI-_Nr8_YdU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51153412552-937ibam9s5eulrgrp3u56fqk8jad8pd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.geminiaitemplate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51153412552:android:097e0dcb49744b358960fd",
+        "android_client_info": {
+          "package_name": "com.flutterflow.geminiaitemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dm9sYnk1NWkHTrSw_uKRI-_Nr8_YdU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51153412552-937ibam9s5eulrgrp3u56fqk8jad8pd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.geminiaitemplate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51153412552:android:c64af1896512c9788960fd",
+        "android_client_info": {
+          "package_name": "company.chatapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51153412552-5od04mb6j6rvmbdvbp05eu9ca26bhgem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "company.chatapp.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dm9sYnk1NWkHTrSw_uKRI-_Nr8_YdU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51153412552-ld962r4k3mq8av6bfcue7nirsvd5k71i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51153412552-937ibam9s5eulrgrp3u56fqk8jad8pd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.geminiaitemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
