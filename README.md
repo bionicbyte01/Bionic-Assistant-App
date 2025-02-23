@@ -1,2 +1,2 @@
-# Bionic-Assistant
+# Bionic-Assistant-App
 Meet BionicByte Assistant. Your personal favorite to assist, comfort and work in your overloads. Happy collaboration!
